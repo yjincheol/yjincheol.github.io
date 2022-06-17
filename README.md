@@ -1,1 +1,0 @@
-# yjincheol.github.io
