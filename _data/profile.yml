@@ -1,29 +1,51 @@
-image: assets/img/smile.png
-username: Christoph Jabs
-description: creator of the Grape-Academic-Theme! Grape-Academic-Theme is a modification of the Grape-Theme by naye0ng, making it more suitable as an academic portfolio.
-webpage: https://chrjabs.github.io
+image: assets/img/pic.jpeg
+username: Jincheol yang
+description: ✓ 컴퓨터비전과 딥러닝에 관심이 많은 주니어 개발자입니다.
+
+
+             ✓ 인턴으로 annotation tool을 개발하는 담당을 하였습니다.
+
+
+             • 2D 스켈레톤 검출 모델을 개발하기 위해 
+             human pose estimation 데이터셋을 
+             구축하는 PyQt5툴킷을 이용하여 만들었습니다.
+
+
+             ✓ 학부에서 졸업작품으로 영상처리를 담당 하였습니다.
+
+
+             • 책의 청구기호를 검출하기 위해 yolo3와 ocr을 이용하여
+             글자를 인식하였습니다.
+
+         
+webpage: https://yjincheol.github.io
 experience:
-  - start: 2017-05-03
-    end: 2018-05-06
-    experience : company name, title
+  - start: 2022-01
+    end: 2022-05
+    experience : CodeVision.co, 인턴
+  - start: 2015-03
+    end: 2022-02
+    experience : 한국기술교육대학교, 전자공학과
 interests:
-  - Interest 1
-  - Interest 2
+  - Computer Vision
+  - Deep Learning
 skills: 
-  - skill: HTML5 & CSS
+  - skill: Python3
     value: 85  # Percent value
+  - skill: Tensorflow
+    value: 70  # Percent value
 social:
-  email:  # Full email address, e.g. "sample@google.com"
-  orcid: 
-  scholar: 
-  publons: 
-  research_gate: 
-  linkedin:  # Full URL 
-  github: chrjabs
-  gitlab: 
-  bitbucket: chrjabs
-  google_plus:
-  twitter: chrjabs
-  youtube:
-  facebook:
-  instagram:
+  email:  "yjc3232@gmail.com"
+  github: yjincheol.github
+  # orcid: 
+  # scholar: 
+  # publons: 
+  # research_gate: 
+  # linkedin:  # Full URL 
+  # gitlab: 
+  # bitbucket: chrjabs
+  # google_plus:
+  # twitter: chrjabs
+  # youtube:
+  # facebook:
+  # instagram:

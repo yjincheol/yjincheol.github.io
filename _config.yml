@@ -1,9 +1,9 @@
 # Site Settings
-# baseurl: "/home"
+baseurl: "/home"
 
 # Blog Setting
-blog: True
-
+# blog: True
+blog: False
 # Language of the website
 lang: en
 
@@ -30,7 +30,7 @@ theme_settings:
   interests_title: RESEARCH INTERESTS
   skills_title: SKILLS
   projects_title: PROJECTS
-  # recentpubs_title: RECENT PUBLICATIONS
+  recentpubs_title: RECENT PUBLICATIONS
 
 # Pagination
 paginate: 5
